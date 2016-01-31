@@ -1,0 +1,20 @@
+{
+  "name": "input-statistics",
+  "version": "1.0.0",
+  "title": "User Input Statistics",
+  "description": "Create a program which will take repeated input from the user and generate statistics on those inputs.",
+  "difficultyModes": [
+      "Normal",
+      "Hard",
+      "Nightmare"
+  ],
+  "keywords": [
+    "Control Flow",
+    "Variables",
+    "Data Types",
+    "Arithmetic",
+    "puts",
+    "gets",
+    "Gists"
+  ]
+}
